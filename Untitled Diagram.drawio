@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T05:43:40.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="LqsFjTp-e1Js4FI6NuRo" version="17.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-30T05:46:55.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="GlQgttd-eqI6yR1zMK5z" version="17.2.5" type="github">
   <diagram id="2mjPUPT9OZtOktFbePXb" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="X8UXNErv3cADNR00jeIR-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" width="550" height="680" as="geometry" />
+          <mxGeometry x="90" width="580" height="680" as="geometry" />
         </mxCell>
         <mxCell id="X8UXNErv3cADNR00jeIR-3" value="email/ID/&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , , , &amp;#34;malgun gothic&amp;#34; , sans-serif ; font-size: 14px ; line-height: 25.9896px ; text-align: justify ; background-color: rgb(247 , 248 , 250)&quot;&gt;organization&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="30" width="320" height="20" as="geometry" />
@@ -26,16 +26,43 @@
           <mxGeometry x="160" y="270" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X8UXNErv3cADNR00jeIR-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;rotation=45;" parent="1" vertex="1">
-          <mxGeometry x="330" y="272.5" width="24" height="25" as="geometry" />
+          <mxGeometry x="100" y="397.5" width="24" height="25" as="geometry" />
         </mxCell>
         <mxCell id="X8UXNErv3cADNR00jeIR-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="235" width="50" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Sz4HlU1IlZtaxrlrikUw-4" value="SN/ MTM/ MT/CC/Basic name&lt;br&gt;PN/8S/POL/picture" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="420" y="237" width="120" height="95" as="geometry" />
+          <mxGeometry x="130" y="340" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Sz4HlU1IlZtaxrlrikUw-6" value="BOM/Part" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="120" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz4HlU1IlZtaxrlrikUw-7" value="SN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="340" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz4HlU1IlZtaxrlrikUw-10" value="MTM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="380" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz4HlU1IlZtaxrlrikUw-11" value="MT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="420" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz4HlU1IlZtaxrlrikUw-12" value="CC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="460" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz4HlU1IlZtaxrlrikUw-14" value="Basic name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz4HlU1IlZtaxrlrikUw-18" value="PN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="380" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz4HlU1IlZtaxrlrikUw-19" value="8S" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="420" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz4HlU1IlZtaxrlrikUw-20" value="POL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="460" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz4HlU1IlZtaxrlrikUw-21" value="picture&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22180%22%20y%3D%22340%22%20width%3D%2260%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="380" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz4HlU1IlZtaxrlrikUw-22" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , , , &amp;#34;malgun gothic&amp;#34; , sans-serif ; font-size: 14px ; line-height: 25.9896px ; text-align: justify ; background-color: rgb(247 , 248 , 250)&quot;&gt;More detailed description&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="420" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
